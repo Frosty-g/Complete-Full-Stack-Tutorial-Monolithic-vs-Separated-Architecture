@@ -1,4 +1,4 @@
-# Complete Full-Stack Tutorial: Monolithic vs Separated Architecture
+# Complete Full-Stack Tutorial: Monolithic vs Separated Architecture.
 
 ## Table of Contents
 1. [Introduction](#introduction)
